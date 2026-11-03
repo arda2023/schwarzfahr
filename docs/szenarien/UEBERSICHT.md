@@ -1,5 +1,7 @@
 # Problem-Szenarien: Übersicht
 
+Die Ergebnisse sind in [KONZEPT.md Version 2](../KONZEPT.md) eingearbeitet. Die Szenarien sind fiktiv.
+
 Fünf Agenten haben Szenarien erzeugt (schnell, niedriger Aufwand). Danach haben fünf weitere Agenten mit hohem Aufwand für jedes Szenario eine Lösung gesucht. Faktenfehler in den Szenarien sind in den Lösungsdateien als *Korrektur* vermerkt.
 
 | Gruppe | Szenarien | Lösungen | ✅ | 🟡 | ❌ |
