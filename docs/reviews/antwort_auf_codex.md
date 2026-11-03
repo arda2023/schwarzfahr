@@ -98,4 +98,20 @@ Zur Rechtslage: siehe Abschnitt 5.
 
 ## 5. Rechtslage zum Selfie
 
-*(wird nach Abschluss der Rechtsrecherche ergänzt)*
+Ausführlich mit Normtexten und Urteilen: [`../recherche/recht_foto_verifikation.md`](../recherche/recht_foto_verifikation.md). Keine Rechtsberatung.
+
+> **Quellenhinweis:** Die Primärquellen (gesetze-im-internet.de, eur-lex, dejure, curia, bahnhof.de, hvv.de) waren aus der Rechercheumgebung gesperrt. Die Normtexte entsprechen der amtlichen Fassung, wurden aber nicht live abgeglichen. Urteile stammen aus Suchauszügen, teils aus Sekundärquellen. **Vor einer Entscheidung alle Aktenzeichen selbst im Original prüfen** (oder von einer Anwältin prüfen lassen).
+
+**Die These „Ich fotografiere mich selbst, also dürfen Fremde mit drauf sein“ hat im Gesetz keine Grundlage.** Was dort steht:
+
+1. **Aufnehmen:** Das Kunsturhebergesetz (KUG) regelt nur das Verbreiten und öffentliche Zeigen (§ 22 S. 1 KUG). Schon das Anfertigen eines Fotos kann aber das allgemeine Persönlichkeitsrecht verletzen (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG, § 823 Abs. 1, § 1004 BGB analog), auch im öffentlichen Raum. Ob es rechtswidrig ist, entscheidet eine Abwägung im Einzelfall (BGH VI ZR 272/94).
+2. **§ 201a StGB** (Bildaufnahmen aus dem höchstpersönlichen Lebensbereich) passt nicht: Er verlangt eine Wohnung, einen gegen Einblick geschützten Raum, Hilflosigkeit oder eine Aufnahme, die dem Ansehen erheblich schadet.
+3. **Upload an den Betreiber = Verbreiten** im Sinne von § 22 KUG: Darunter fällt jede Weitergabe an Dritte, auch digital.
+4. **„Beiwerk“** gibt es nach § 23 Abs. 1 Nr. 2 KUG nur neben einer **Landschaft oder Örtlichkeit**, nicht neben dem Fotografierenden. Kontrolleure, die der Zweck des Fotos sind, sind kein Beiwerk. Eine Schlange ist keine „Versammlung“ nach Nr. 3.
+5. **DSGVO für den Melder:** Die Ausnahme für rein persönliche Tätigkeiten (Art. 2 Abs. 2 lit. c) legt der EuGH eng aus. Bei einem Upload an eine App ist sie fraglich.
+6. **DSGVO für den Betreiber gilt immer.** Er braucht eine Rechtsgrundlage (praktisch Art. 6 Abs. 1 lit. f), muss Datensparsamkeit und Datenschutz durch Technik umsetzen (Art. 5, Art. 25) und die abgebildeten Personen informieren (Art. 13/14).
+7. **Verhältnis KUG zu DSGVO** ist außerhalb des Journalismus nicht höchstrichterlich geklärt. Das ist ein echter Streit in der Rechtsprechung und Literatur, keine Vermutung.
+8. **DB-Hinweise zum Fotografieren (2024), wörtlich:** „Für Nahaufnahmen von Personen müssen Sie vorab die Einwilligung der abgebildeten Personen einholen.“ Und: Nicht gestattet sind „Nahaufnahmen von DB-Mitarbeitenden ohne deren vorherige Zustimmung“. Den Wortlaut der aktuellen DB-InfraGO-Hausordnung und eine Foto-Regel des hvv konnte die Recherche nicht belegen.
+9. **Alle Gesichter auf dem Gerät verpixeln und das Bild sofort löschen** senkt die Risiken deutlich. Es reicht aber nicht, wenn Personen über andere Merkmale (Kleidung, Statur, Ort und Zeit) erkennbar bleiben.
+
+**Ergebnis:** Rechtlich und praktisch spricht alles gegen die Selfie-Funktion. Sie widerspricht außerdem der Regel „keine Fotos“ in KONZEPT 8, die genau aus diesen Gründen dort steht. Vertrauen bei Massenkontrollen entsteht besser durch mehrere unabhängige Meldungen.
